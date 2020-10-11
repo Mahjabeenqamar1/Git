@@ -1,0 +1,3 @@
+six hello
+
+changing the file of stash
